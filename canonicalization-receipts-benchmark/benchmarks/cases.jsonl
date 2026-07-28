@@ -1,0 +1,10 @@
+{"id":"plain_001","input":"hello world","expected":"hello world"}
+{"id":"reverse_001","input":"dlrow olleh","expected":"hello world"}
+{"id":"reverse_002","input":"tpmorp siht","expected":"this prompt"}
+{"id":"upside_001","input":"plɹoʍ ollǝɥ","expected":"hello world"}
+{"id":"upside_002","input":"ʇdᴉǝɔǝɹ ɥsɐɥ","expected":"hash receipt"}
+{"id":"bidi_001","input":"abc‮def","expected":"abcdef"}
+{"id":"homoglyph_001","input":"раураl account","expected":"paypal account"}
+{"id":"homoglyph_002","input":"сanonical hаsh","expected":"canonical hash"}
+{"id":"mixed_001","input":"ʇdᴉǝɔǝɹ ɥsаɥ","expected":"hash receipt"}
+{"id":"manhattan_001","input":"noitcelfer nattahnaM","expected":"Manhattan reflection"}
